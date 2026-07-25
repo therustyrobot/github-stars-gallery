@@ -4083,5 +4083,10 @@
     "category": "Web & Frontend",
     "subcategory": "Other",
     "slug": "web-frontend"
+  },
+  "Macro-Deck-App/Macro-Deck": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
