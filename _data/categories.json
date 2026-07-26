@@ -4088,5 +4088,10 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "drizzle-team/drizzle-orm": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
   }
 }
