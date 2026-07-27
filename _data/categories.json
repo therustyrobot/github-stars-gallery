@@ -4093,5 +4093,30 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
+  },
+  "amir20/dozzle": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Monitoring & Alerts",
+    "slug": "self-hosting-homelab"
+  },
+  "bastienwirtz/homer": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "davis7dotsh/my-pi-setup": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "alielsokary/CaskHub": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "web-infra-dev/midscene": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
   }
 }
