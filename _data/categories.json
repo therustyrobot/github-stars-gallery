@@ -4118,5 +4118,10 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "Signet-AI/signetai": {
+    "category": "AI & ML",
+    "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
   }
 }
