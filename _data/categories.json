@@ -189,11 +189,6 @@
     "subcategory": "Media & Arr Stack",
     "slug": "media-entertainment"
   },
-  "firecat53/dockerfiles": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Tools & Utilities",
-    "slug": "self-hosting-homelab"
-  },
   "cbirkenbeul/docker-homelab": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Tools & Utilities",
@@ -4122,6 +4117,76 @@
   "Signet-AI/signetai": {
     "category": "AI & ML",
     "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
+  },
+  "sorin-ionescu/prezto": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "mshumer/Claude-of-Duty": {
+    "category": "AI & ML",
+    "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
+  },
+  "macro-inc/macro": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "huntabyte/shadcn-svelte": {
+    "category": "Web & Frontend",
+    "subcategory": "Other",
+    "slug": "web-frontend"
+  },
+  "Darkrock-Studios/hammer-editor": {
+    "category": "Productivity & Notes",
+    "subcategory": "Other",
+    "slug": "productivity-notes"
+  },
+  "Automattic/harper": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "codesandbox/codesandbox-client": {
+    "category": "Web & Frontend",
+    "subcategory": "Other",
+    "slug": "web-frontend"
+  },
+  "BuilderIO/mitosis": {
+    "category": "Web & Frontend",
+    "subcategory": "Other",
+    "slug": "web-frontend"
+  },
+  "tabler/tabler-icons": {
+    "category": "Web & Frontend",
+    "subcategory": "Other",
+    "slug": "web-frontend"
+  },
+  "NativeScript/NativeScript": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Other",
+    "slug": "mobile-desktop"
+  },
+  "vercel/ai": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "xyflow/xyflow": {
+    "category": "Web & Frontend",
+    "subcategory": "Other",
+    "slug": "web-frontend"
+  },
+  "TanStack/query": {
+    "category": "Data & Analytics",
+    "subcategory": "Other",
+    "slug": "data-analytics"
+  },
+  "lyderdev/fastlane-mcp-server": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
   }
 }
