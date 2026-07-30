@@ -4188,5 +4188,65 @@
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
+  },
+  "calm-logic/homebox": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "sottey/dashuni": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "Gimanh/taskview-community": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "is-cout/maguilanote-obsidian": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "pranay101/Mannote": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "0-AI-UG/cate-extensions": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "samber/invoice-as-a-service": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "samber/awesome-user-research": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "samber/awesome-prometheus-alerts": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "caglaryalcin/OmniSight": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Monitoring & Alerts",
+    "slug": "self-hosting-homelab"
+  },
+  "logseq/logseq": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "chattocorp/chatto": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Deployment & PaaS",
+    "slug": "self-hosting-homelab"
   }
 }
