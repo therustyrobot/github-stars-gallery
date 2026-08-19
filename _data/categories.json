@@ -304,11 +304,6 @@
     "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
   },
-  "MicroPyramid/Django-CRM": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Deployment & PaaS",
-    "slug": "self-hosting-homelab"
-  },
   "frappe/crm": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Deployment & PaaS",
@@ -1677,11 +1672,6 @@
   "NodeNestor/CodeGate": {
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
-    "slug": "ai-ml"
-  },
-  "kevinrgu/autoagent": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
   },
   "davis7dotsh/better-context": {
@@ -4248,5 +4238,485 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Deployment & PaaS",
     "slug": "self-hosting-homelab"
+  },
+  ".join(['": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "h4ckf0r0day/obscura": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "pietheinstrengholt/rssmonster": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "OpenOLAT/OpenOLAT": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "charmbracelet/fantasy": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "daltoniam/switchboard": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "ParrotSec/anonsurf": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "carrefinho/prospector": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "ZEUSGMJ/kindle-homelab-dashboard": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "jacob-bd/gemini-notebook-mcp-cli": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "ruaan-deysel/unraid-management-agent": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "/": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "neo4j/aura-cli": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "mobile-shell/mosh": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "zellij-org/zellij": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "zhaoxuya520/reverse-skill": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "ayghri/i-have-adhd": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "tempoxyz/tempo": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "cathrynlavery/diagram-design": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "lightningpixel/modly": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "cactus-compute/needle": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "bretzel-app/crumbs": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "holaboss-ai/holaOS": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "kyleneideck/BackgroundMusic": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "wolfSSL/wolfssl": {
+    "category": "Security",
+    "subcategory": "Security",
+    "slug": "security"
+  },
+  "stardomains3/oxproxion": {
+    "category": "AI & ML",
+    "subcategory": "LLM UIs & Chat Interfaces",
+    "slug": "ai-ml"
+  },
+  "serpapi/awesome-seo-tools": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "coreyhaines31/marketingskills": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "bmpi-dev/awesome-seo": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "TheCraigHewitt/seomachine": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "Eliav2/openclaw-openwebui-integration": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "herms14/homelab-agent": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "HakanSeven12/OpenCADStudio": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "firefly-iii/firefly-iii": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "zed-industries/zed": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "UnTrivial-ai/agent-orchestrator": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "huggingface/transformers.js": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "nimrodfisher/data-analytics-skills": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "openclaw/crabbox": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "Blazity/next-enterprise": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "ellshep/milaclone": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "abuhuraira-73/Nexus": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "Untrivial-ai/agent-orchestrator": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "sebasmur04/milanote-premium-creative-flow": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "pragmatically-dev/notanote": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "BradyMensobar/obsidian-boardspace": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "Honey-Bagel/Milanote-Clone": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "xavyuno/NotaBoard": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "richardplg2/figma-annotations": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "wojciech-kulik/FlashSpace": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "hzeller/rpi-rgb-led-matrix": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "bugzmanov/divoom-minitoo": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "cyanheads/pixoo-mcp-server": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "BradyMenswar/obsidian-boardspace": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "sadoyan/aralez": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "ArmadilloBrillo/cyber-tui": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "unremarkablegarden/cyberspace-opentui": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "Anuken/Mindustry": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "triggerdotdev/trigger.dev": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "IceWhaleTech/CasaOS": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Deployment & PaaS",
+    "slug": "self-hosting-homelab"
+  },
+  "withastro/flue": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "FadyFaheem/Stream32": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "harvester/harvester": {
+    "category": "DevOps & Infra",
+    "subcategory": "DevOps & Infra",
+    "slug": "devops-infra"
+  },
+  "siderolabs/talos": {
+    "category": "DevOps & Infra",
+    "subcategory": "DevOps & Infra",
+    "slug": "devops-infra"
+  },
+  "pham-tuan-binh/wheatley-ai": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "Rau7han/esp32-ai-pocket-assistant": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "AvantMaker/ESP32_AI_Connect": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "kaloprojects/KALO-ESP32-Voice-Chat-AI-Friends": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "enkei0x/espai": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "zenhall/DAZI-AI": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "akdeb/ElatoAI": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "mixpeek/amux": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "typewriter03/Desko": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "cupcakearmy/autorestic": {
+    "category": "DevOps & Infra",
+    "subcategory": "DevOps & Infra",
+    "slug": "devops-infra"
+  },
+  "garethgeorge/backrest": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "rustic-rs/rustic": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "plutonhq/pluton": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "different-ai/openwork": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "noelpena/plaid-actual-sync": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "duplicati/duplicati": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "awesome-foss/awesome-sysadmin": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "mdonan90/ClawController": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "restic/restic": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "nicotsx/zerobyte": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "cashapp/hermit": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "block/buzz": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "mastra-ai/mastra": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "getwud/wud": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Deployment & PaaS",
+    "slug": "self-hosting-homelab"
+  },
+  "mautic/mautic": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "TheWicklowWolf/Lidify": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "asciimoo/hister": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "senlindesign/claude2figma": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "senlindesign/build-gesture-animation": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "senlindesign/coding-wrapped": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "Django-CRM/Django-CRM": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "thirdlayerinc/autoagent": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
   }
 }
