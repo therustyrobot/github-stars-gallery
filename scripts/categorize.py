@@ -7,8 +7,8 @@ import time
 import json
 import requests
 
-GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
-MODEL = "openai/gpt-4o-mini"
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+MODEL = "deepseek/deepseek-v4-flash-0731"
 BATCH_SIZE = 10
 MAX_MODEL_RETRIES = 5
 RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
@@ -100,7 +100,7 @@ def call_model(session, messages, max_retries=MAX_MODEL_RETRIES):
     }
     for attempt in range(max_retries + 1):
         try:
-            resp = session.post(GITHUB_MODELS_URL, json=payload, timeout=60)
+            resp = session.post(OPENROUTER_URL, json=payload, timeout=60)
             resp.raise_for_status()  # MUST be called before .json() — project-wide invariant
             return resp.json()["choices"][0]["message"]["content"]
         except requests.exceptions.HTTPError as exc:
@@ -223,7 +223,7 @@ def write_categories(cat_map, path="_data/categories.json"):
 
 
 if __name__ == "__main__":
-    token = os.environ["GITHUB_TOKEN"]  # KeyError = fail-fast; never default to ""
+    token = os.environ["OPENROUTER_API_KEY"]  # KeyError = fail-fast; never default to ""
     try:
         with open("_data/repos.json", encoding="utf-8") as f:
             repos = json.load(f)

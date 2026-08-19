@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 jobs:
   update-gallery:
@@ -30,6 +29,8 @@ jobs:
         run: python3 scripts/fetch_stars.py
 
       - name: Categorize repos
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python3 scripts/categorize.py
 
       - name: Generate HTML
