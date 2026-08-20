@@ -1834,11 +1834,6 @@
     "subcategory": "Deployment & PaaS",
     "slug": "self-hosting-homelab"
   },
-  "nagisanzenin/claude-code-production-grade-plugin": {
-    "category": "AI & ML",
-    "subcategory": "Claude Code & Skills",
-    "slug": "ai-ml"
-  },
   "temm1e-labs/temm1e": {
     "category": "AI & ML",
     "subcategory": "Generalist Agents",
@@ -4239,11 +4234,6 @@
     "subcategory": "Deployment & PaaS",
     "slug": "self-hosting-homelab"
   },
-  ".join(['": {
-    "category": "AI & ML",
-    "subcategory": "AI Infrastructure & APIs",
-    "slug": "ai-ml"
-  },
   "h4ckf0r0day/obscura": {
     "category": "Other",
     "subcategory": "Other",
@@ -4293,11 +4283,6 @@
     "category": "Other",
     "subcategory": "Other",
     "slug": "other"
-  },
-  "/": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Notes & Knowledge",
-    "slug": "self-hosting-homelab"
   },
   "neo4j/aura-cli": {
     "category": "Dev Tools & CLI",
@@ -4414,11 +4399,6 @@
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
   },
-  "UnTrivial-ai/agent-orchestrator": {
-    "category": "AI & ML",
-    "subcategory": "Coding Agents & IDEs",
-    "slug": "ai-ml"
-  },
   "huggingface/transformers.js": {
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
@@ -4460,11 +4440,6 @@
     "slug": "productivity-notes"
   },
   "pragmatically-dev/notanote": {
-    "category": "Productivity & Notes",
-    "subcategory": "Productivity & Notes",
-    "slug": "productivity-notes"
-  },
-  "BradyMensobar/obsidian-boardspace": {
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
@@ -4717,6 +4692,31 @@
   "thirdlayerinc/autoagent": {
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "murtaza-nasir/speakr": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "vstratful/openrouter-cli": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "jentic/jentic-one": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "OpenCut-app/OpenCut": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "nagisanzenin/production-grade": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
   }
 }
