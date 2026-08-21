@@ -4718,5 +4718,25 @@
     "category": "AI & ML",
     "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
+  },
+  "PostHog/posthog.com": {
+    "category": "Web & Frontend",
+    "subcategory": "Other Dev Tools",
+    "slug": "web-frontend"
+  },
+  "TryGhost/Dawn": {
+    "category": "Web & Frontend",
+    "subcategory": "Other Dev Tools",
+    "slug": "web-frontend"
+  },
+  "mnfst/awesome-free-llm-apis": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "wobbywells/hermes-picker3-plugin": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
   }
 }
