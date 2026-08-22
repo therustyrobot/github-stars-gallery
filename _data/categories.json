@@ -4738,5 +4738,10 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "subev/pdf2audio": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
   }
 }
