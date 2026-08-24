@@ -4743,5 +4743,10 @@
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
+  },
+  "docusealco/docuseal": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
