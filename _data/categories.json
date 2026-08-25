@@ -4748,5 +4748,20 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "apify/apify-mcp-server": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "milvus-io/milvus": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "zilliztech/claude-context": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
   }
 }
