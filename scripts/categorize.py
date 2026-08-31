@@ -10,6 +10,7 @@ import requests
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "z-ai/glm-5.2:free"
 BATCH_SIZE = 10
+BATCH_DELAY_SECONDS = 5
 MAX_MODEL_RETRIES = 5
 RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
 
@@ -88,7 +89,7 @@ def retry_delay_seconds(response, attempt_number):
                 return min(60, max(0, int(float(retry_after))))
             except ValueError:
                 pass
-    return min(60, 2 ** attempt_number)
+    return min(60, max(10, 2 ** attempt_number))
 
 
 def call_model(session, messages, max_retries=MAX_MODEL_RETRIES):
@@ -179,6 +180,8 @@ def categorize_all(repos, session):
             if name not in cat_map:
                 print(f"[WARN] Repo {name!r} missing from model response — assigning to Other")
                 cat_map[name] = {"category": "Other", "subcategory": "Other", "slug": "other"}
+        if i + BATCH_SIZE < len(repos):
+            time.sleep(BATCH_DELAY_SECONDS)
     return cat_map
 
 
