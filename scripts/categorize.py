@@ -8,7 +8,7 @@ import json
 import requests
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "deepseek/deepseek-v4-flash-0731"
+MODEL = "z-ai/glm-5.2:free"
 BATCH_SIZE = 10
 MAX_MODEL_RETRIES = 5
 RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
