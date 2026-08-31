@@ -4888,5 +4888,10 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Terminal & Shell",
     "slug": "dev-tools-cli"
+  },
+  "corsairdev/corsair": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Networking & Remote Access",
+    "slug": "self-hosting-homelab"
   }
 }
