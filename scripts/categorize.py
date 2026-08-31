@@ -8,7 +8,7 @@ import json
 import requests
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "z-ai/glm-5.2:free"
+MODEL = "openrouter/free"
 BATCH_SIZE = 10
 BATCH_DELAY_SECONDS = 5
 MAX_MODEL_RETRIES = 5
