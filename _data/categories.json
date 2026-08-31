@@ -3354,11 +3354,6 @@
     "subcategory": "Mobile & Desktop",
     "slug": "mobile-desktop"
   },
-  "basecamp/omarchy": {
-    "category": "Mobile & Desktop",
-    "subcategory": "Mobile & Desktop",
-    "slug": "mobile-desktop"
-  },
   "n8n-io/n8n": {
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
@@ -3863,11 +3858,6 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Other",
     "slug": "self-hosting-homelab"
-  },
-  "ClawLink-HQ/clawlink": {
-    "category": "AI & ML",
-    "subcategory": "AI Productivity Tools",
-    "slug": "ai-ml"
   },
   "openclaw/clawhub": {
     "category": "AI & ML",
@@ -4739,11 +4729,6 @@
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
   },
-  "subev/pdf2audio": {
-    "category": "AI & ML",
-    "subcategory": "AI Productivity Tools",
-    "slug": "ai-ml"
-  },
   "docusealco/docuseal": {
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
@@ -4763,5 +4748,145 @@
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
+  },
+  "ionic-team/ionic-framework": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "zackb/tether": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "StevenIsaacs/ruida-pa": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "meerk40t/meerk40t": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "barebaric/rayforge": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "tt-a1i/archify": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "knoxgraeme/tieline": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Documentation & Sites",
+    "slug": "dev-tools-cli"
+  },
+  "jordanbaird/Ice": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "nikitabobko/AeroSpace": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "tuanpham-dev/react-invoice-generator": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "reshaped-ui/reshaped": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "tokens-studio/figma-plugin": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "murphytrueman/design-system-ops": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "VoltAgent/awesome-claude-design": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "mikaelvesavuori/figmagic": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Tools & Utilities",
+    "slug": "dev-tools-cli"
+  },
+  "klaufel/awesome-design-systems": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "southleft/figma-console-mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "figma/code-connect": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Tools & Utilities",
+    "slug": "dev-tools-cli"
+  },
+  "westpoint-io/mimik": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "janpfischer/zmk-dongle-screen": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "englmaxi/zmk-dongle-display": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "cloudflare/mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "N-O-P-E/nope-marketplace": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "sudomichael/search-console-mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "fourdots/Google-Marketing-MCPs-G.Ads-GA4-GSC-GTM": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "FlashML-org/FreeToken": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "subev/libratory": {
+    "category": "AI & ML",
+    "subcategory": "RAG & Knowledge",
+    "slug": "ai-ml"
+  },
+  "omacom/omarchy": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
   }
 }
