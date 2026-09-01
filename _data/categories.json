@@ -1374,11 +1374,6 @@
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
   },
-  "santifer/career-ops": {
-    "category": "AI & ML",
-    "subcategory": "Claude Code & Skills",
-    "slug": "ai-ml"
-  },
   "neka-nat/freecad-mcp": {
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
@@ -4893,5 +4888,15 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Networking & Remote Access",
     "slug": "self-hosting-homelab"
+  },
+  "pauljoda/Prismedia": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "career-ops-hq/career-ops": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
   }
 }
