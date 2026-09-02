@@ -4898,5 +4898,20 @@
     "category": "AI & ML",
     "subcategory": "Coding Agents & IDEs",
     "slug": "ai-ml"
+  },
+  "wrt80/Meshtastic_Heltec-v2": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "meshtastic/firmware": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "iv-org/invidious": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
   }
 }
