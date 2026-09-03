@@ -4913,5 +4913,15 @@
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
     "slug": "web-frontend"
+  },
+  "pacifio/atlas": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "debpalash/VoiceStudio": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
   }
 }
