@@ -4923,5 +4923,35 @@
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
+  },
+  "geosp/mcp-bible": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "emmanueljl/ESV-Bible-Alfred-workflow": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "wldeh/bible-api": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "scrollmapper/bible_databases": {
+    "category": "Data & Analytics",
+    "subcategory": "Data & Analytics",
+    "slug": "data-analytics"
+  },
+  "openenglishbible/Open-English-Bible": {
+    "category": "Data & Analytics",
+    "subcategory": "Data & Analytics",
+    "slug": "data-analytics"
+  },
+  "blader/humanizer": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
   }
 }
