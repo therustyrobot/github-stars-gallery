@@ -4953,5 +4953,15 @@
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
+  },
+  "unslothai/unsloth": {
+    "category": "AI & ML",
+    "subcategory": "LLM UIs & Chat Interfaces",
+    "slug": "ai-ml"
+  },
+  "davila7/claude-code-templates": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
   }
 }
