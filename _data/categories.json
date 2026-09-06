@@ -4963,5 +4963,10 @@
     "category": "AI & ML",
     "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
+  },
+  "Pouzor/homelable": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
   }
 }
