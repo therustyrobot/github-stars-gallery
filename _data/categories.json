@@ -4968,5 +4968,25 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Dashboards & Homepages",
     "slug": "self-hosting-homelab"
+  },
+  "The-Swarm-Corporation/AutoHedge": {
+    "category": "AI & ML",
+    "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
+  },
+  "humanlayer/skills": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "Stremio/stremio-web": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "katzzero/bc250-unofficial-community-guide": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
   }
 }
