@@ -4988,5 +4988,50 @@
     "category": "ESP32 & Hardware",
     "subcategory": "ESP32 & Hardware",
     "slug": "esp32-hardware"
+  },
+  "mos-nas/mos-releases": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "alxv2016/folloup-sticky": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "514-labs/dnsglobe": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "Gaurav-Gosain/tuios": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "alvinunreal/oh-my-opencode-slim": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "alvinunreal/tmuxai": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "alvinunreal/lazyskills": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "alvinunreal/awesometui": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "alvinunreal/awesome-submitlist": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
   }
 }
