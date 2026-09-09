@@ -1954,11 +1954,6 @@
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
   },
-  "mnfst/manifest": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "jray2123/zen-mcp-server": {
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
@@ -5033,5 +5028,15 @@
     "category": "Other",
     "subcategory": "Other",
     "slug": "other"
+  },
+  "getzola/zola": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Documentation & Sites",
+    "slug": "dev-tools-cli"
+  },
+  "mnfst/llm-gateway": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
   }
 }
