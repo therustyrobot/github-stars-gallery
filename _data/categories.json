@@ -5038,5 +5038,20 @@
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
     "slug": "ai-ml"
+  },
+  "YONGHU-YUAN/cardputer-studio": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "jakubthedeveloper/Samplotron": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "nunocoracao/blowfish": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Documentation & Sites",
+    "slug": "dev-tools-cli"
   }
 }
