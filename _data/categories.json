@@ -84,11 +84,6 @@
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
   },
-  "dynatrace-oss/dynatrace-mcp": {
-    "category": "AI & ML",
-    "subcategory": "MCP Servers & Tools",
-    "slug": "ai-ml"
-  },
   "bytedance/Dolphin": {
     "category": "AI & ML",
     "subcategory": "Other",
@@ -1495,11 +1490,6 @@
     "slug": "awesome-lists"
   },
   "salomonelli/best-resume-ever": {
-    "category": "Productivity & Notes",
-    "subcategory": "Other",
-    "slug": "productivity-notes"
-  },
-  "amruthpillai/reactive-resume": {
     "category": "Productivity & Notes",
     "subcategory": "Other",
     "slug": "productivity-notes"
@@ -5053,5 +5043,10 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Documentation & Sites",
     "slug": "dev-tools-cli"
+  },
+  "reactive-resume/app": {
+    "category": "Productivity & Notes",
+    "subcategory": "Notes & Knowledge",
+    "slug": "productivity-notes"
   }
 }
