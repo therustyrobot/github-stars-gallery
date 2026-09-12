@@ -5044,9 +5044,39 @@
     "subcategory": "Documentation & Sites",
     "slug": "dev-tools-cli"
   },
-  "reactive-resume/app": {
+  "melgarafael/DeskcommCRM": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "alphaXiv/OpenResearch": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "jordan-gibbs/hyperresearch": {
+    "category": "AI & ML",
+    "subcategory": "RAG & Knowledge",
+    "slug": "ai-ml"
+  },
+  "vastsa/PI-Desktop": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "bilawalsidhu/gods-eye-view": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "Schaka/janitorr": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "reactive-resume/reactive-resume": {
     "category": "Productivity & Notes",
-    "subcategory": "Notes & Knowledge",
+    "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
   }
 }
