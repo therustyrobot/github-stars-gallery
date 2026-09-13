@@ -5078,5 +5078,10 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "QwenAudio/qwen-audio-agent": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
   }
 }
