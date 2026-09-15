@@ -5083,5 +5083,20 @@
     "category": "Other",
     "subcategory": "Other",
     "slug": "other"
+  },
+  "rlaope/oh-my-hermes": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "peetzweg/opendisplay": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "ever-co/ever-gauzy": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
