@@ -5098,5 +5098,20 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "tonhowtf/omniget": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Arr & Media Tools",
+    "slug": "dev-tools-cli"
+  },
+  "alibaba/open-code-review": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "ever-works/ever-works": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
   }
 }
