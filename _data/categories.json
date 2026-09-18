@@ -3399,11 +3399,6 @@
     "subcategory": "Other",
     "slug": "web-frontend"
   },
-  "phmullins/awesome-macos": {
-    "category": "Awesome Lists",
-    "subcategory": "Other",
-    "slug": "awesome-lists"
-  },
   "twentyhq/twenty": {
     "category": "AI & ML",
     "subcategory": "Generalist Agents",
@@ -5113,5 +5108,25 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "agregarr/agregarr": {
+    "category": "Media & Arr Stack",
+    "subcategory": "Media & Arr Stack",
+    "slug": "media-arr-stack"
+  },
+  "filbot/iss-tracker": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "Dictionarry-Hub/profilarr": {
+    "category": "Media & Arr Stack",
+    "subcategory": "Media & Arr Stack",
+    "slug": "media-arr-stack"
+  },
+  "clegginabox/salience-macos": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
   }
 }
