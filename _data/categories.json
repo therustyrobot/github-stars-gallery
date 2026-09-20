@@ -5143,5 +5143,15 @@
     "category": "AI & ML",
     "subcategory": "Coding Agents & IDEs",
     "slug": "ai-ml"
+  },
+  "Comfy-Org/ComfyUI": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "Damienchakma/Open-claude": {
+    "category": "AI & ML",
+    "subcategory": "LLM UIs & Chat Interfaces",
+    "slug": "ai-ml"
   }
 }
