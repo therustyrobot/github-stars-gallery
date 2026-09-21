@@ -5153,5 +5153,45 @@
     "category": "AI & ML",
     "subcategory": "LLM UIs & Chat Interfaces",
     "slug": "ai-ml"
+  },
+  "Orang-Studio/InstaDownload": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "Ananya-0306/Instagram_Reels_downloader": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "arashnm80/best-instagram-downloader": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Automation & Scraping",
+    "slug": "dev-tools-cli"
+  },
+  "parthmax2/parth-dl": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "AdityaManojShinde/Instagram-Reels-Downloader": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "seotanvirbd/Instagram-Reel-Scraper": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Automation & Scraping",
+    "slug": "dev-tools-cli"
+  },
+  "michael-andreuzza/bearnie": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "JustVugg/colibri": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
   }
 }
