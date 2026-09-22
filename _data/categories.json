@@ -5193,5 +5193,30 @@
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
     "slug": "ai-ml"
+  },
+  "PhoenixSheppy/Palo-Alto-ION-2000-OPNsense-Conversion-Guide": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "PhoenixSheppy/VeloCloud-Edge-510-OPNsense-Conversion-Guide": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "aliansoftwareteam/AlianHub-Project-Management-System": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "Devlaner/devlane": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "linear/linear": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
   }
 }
