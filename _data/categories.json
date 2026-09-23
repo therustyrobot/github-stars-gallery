@@ -2859,11 +2859,6 @@
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
   },
-  "MoonshotAI/kimi-cli": {
-    "category": "AI & ML",
-    "subcategory": "Coding Agents & IDEs",
-    "slug": "ai-ml"
-  },
   "obra/superpowers": {
     "category": "AI & ML",
     "subcategory": "Generalist Agents",
@@ -5215,6 +5210,16 @@
     "slug": "productivity-notes"
   },
   "linear/linear": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "NVlabs/SoL-Pi": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "filedcom/opentax": {
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
