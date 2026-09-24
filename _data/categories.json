@@ -2524,11 +2524,6 @@
     "subcategory": "Coding Agents & IDEs",
     "slug": "ai-ml"
   },
-  "danny-avila/LibreChat": {
-    "category": "AI & ML",
-    "subcategory": "LLM UIs & Chat Interfaces",
-    "slug": "ai-ml"
-  },
   "oobabooga/textgen": {
     "category": "AI & ML",
     "subcategory": "LLM UIs & Chat Interfaces",
@@ -5223,5 +5218,10 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
+  },
+  "LibreChat-AI/LibreChat": {
+    "category": "AI & ML",
+    "subcategory": "LLM UIs & Chat Interfaces",
+    "slug": "ai-ml"
   }
 }
