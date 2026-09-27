@@ -5074,11 +5074,6 @@
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
   },
-  "tonhowtf/omniget": {
-    "category": "Dev Tools & CLI",
-    "subcategory": "Arr & Media Tools",
-    "slug": "dev-tools-cli"
-  },
   "alibaba/open-code-review": {
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
@@ -5218,5 +5213,85 @@
     "category": "AI & ML",
     "subcategory": "LLM UIs & Chat Interfaces",
     "slug": "ai-ml"
+  },
+  "gradio-app/gradio": {
+    "category": "AI & ML",
+    "subcategory": "LLM UIs & Chat Interfaces",
+    "slug": "ai-ml"
+  },
+  "looplj/axonhub": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "raullenchai/Rapid-MLX": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "MakazhanAlpamys/Soup": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "maziyarpanahi/openmed": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "magnus919/hermes-profiles": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "dream-num/univer": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "google/ax": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "derv82/wifit3": {
+    "category": "Security",
+    "subcategory": "Security",
+    "slug": "security"
+  },
+  "androoAGI/starnet": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "mdj2812/home-intercom": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "rickx/ubuntu-thinksmart": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "pgale/lineage_15.1_Installation_TSV": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "dinki/View-Assist": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "codejunkie99/keel": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "hcengineering/platform": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
   }
 }
