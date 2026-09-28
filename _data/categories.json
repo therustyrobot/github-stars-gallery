@@ -5293,5 +5293,25 @@
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
     "slug": "web-frontend"
+  },
+  "vercel/turborepo": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "vercel/vercel": {
+    "category": "DevOps & Infra",
+    "subcategory": "DevOps & Infra",
+    "slug": "devops-infra"
+  },
+  "Blackajiro/Resonance": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "KORThomasJeong/live-scribe": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
