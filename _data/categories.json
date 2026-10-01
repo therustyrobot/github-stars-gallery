@@ -5318,5 +5318,15 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "kunchenguid/treehouse": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "runkids/skillshare": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
   }
 }
