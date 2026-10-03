@@ -2314,11 +2314,6 @@
     "subcategory": "LLM UIs & Chat Interfaces",
     "slug": "ai-ml"
   },
-  "brimdata/super": {
-    "category": "Data & Analytics",
-    "subcategory": "Data & Analytics",
-    "slug": "data-analytics"
-  },
   "VoltAgent/voltagent": {
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
@@ -5328,5 +5323,50 @@
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
+  },
+  "lokutor-ai/oido": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "Effect-TS/effect": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "mvschwarz/openrig": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "pocket-id/pocket-id": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Password & Auth",
+    "slug": "self-hosting-homelab"
+  },
+  "chadMueller/Nostalgex": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "Kruszoneq/macUSB": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "tw93/Mole": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "vorssaint/vorssaint-utils": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "superdb/super": {
+    "category": "Data & Analytics",
+    "subcategory": "Data & Analytics",
+    "slug": "data-analytics"
   }
 }
