@@ -1169,11 +1169,6 @@
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
   },
-  "joeynyc/hermes-chronos-forge": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Dashboards & Homepages",
-    "slug": "self-hosting-homelab"
-  },
   "outsourc-e/hermes-workspace": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Dashboards & Homepages",
@@ -4673,11 +4668,6 @@
     "category": "Awesome Lists",
     "subcategory": "Awesome Lists",
     "slug": "awesome-lists"
-  },
-  "wobbywells/hermes-picker3-plugin": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
   },
   "docusealco/docuseal": {
     "category": "Productivity & Notes",
