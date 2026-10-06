@@ -5418,5 +5418,30 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "AgriciDaniel/claude-seo": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "mcer12/AnalogNixieClock": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Other",
+    "slug": "self-hosting-homelab"
+  },
+  "ingvarch/urga": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "mcer12/PixelFonts": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "grdashark/BLEShark": {
+    "category": "Security",
+    "subcategory": "Security",
+    "slug": "security"
   }
 }
