@@ -3254,11 +3254,6 @@
     "subcategory": "Media & Arr Stack",
     "slug": "self-hosting-homelab"
   },
-  "anywhy-io/flake": {
-    "category": "Other",
-    "subcategory": "Other",
-    "slug": "other"
-  },
   "asmvik/skhd": {
     "category": "Productivity & Notes",
     "subcategory": "Other",
@@ -5443,5 +5438,15 @@
     "category": "Security",
     "subcategory": "Security",
     "slug": "security"
+  },
+  "getpaseo/paseo-relay": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Networking & Remote Access",
+    "slug": "self-hosting-homelab"
+  },
+  "lever-tech/flake": {
+    "category": "DevTools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "devtools-cli"
   }
 }
