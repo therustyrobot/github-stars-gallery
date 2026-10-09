@@ -3394,11 +3394,6 @@
     "subcategory": "Other",
     "slug": "other"
   },
-  "dipakkr/A-to-Z-Resources-for-Students": {
-    "category": "Awesome Lists",
-    "subcategory": "Awesome Lists",
-    "slug": "awesome-lists"
-  },
   "TriliumNext/Trilium": {
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
@@ -5448,5 +5443,15 @@
     "category": "DevTools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "devtools-cli"
+  },
+  "0xMassi/webclaw": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "dipakkr/awesome-ai-engineering": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
   }
 }
