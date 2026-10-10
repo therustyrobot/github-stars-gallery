@@ -3649,11 +3649,6 @@
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
   },
-  "LanceZPF/agent-as-a-router": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "NadirRouter/NadirClaw": {
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
@@ -5453,5 +5448,55 @@
     "category": "Awesome Lists",
     "subcategory": "Awesome Lists",
     "slug": "awesome-lists"
+  },
+  "anthropics/knowledge-work-plugins": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "morluto/rea": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "postaddictme/instagram-php-scraper": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Automation & Scraping",
+    "slug": "dev-tools-cli"
+  },
+  "drawrowfly/instagram-scraper": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Automation & Scraping",
+    "slug": "dev-tools-cli"
+  },
+  "joeyism/linkedin_scraper": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Automation & Scraping",
+    "slug": "dev-tools-cli"
+  },
+  "TechSquidTV/Cliparr": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "stablyai/orca": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "coleam00/excalidraw-diagram-skill": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "imxv/Pretty-mermaid-skills": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "laurent22/joplin": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
