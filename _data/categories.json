@@ -2959,11 +2959,6 @@
     "subcategory": "Other",
     "slug": "web-frontend"
   },
-  "styleframe-dev/styleframe": {
-    "category": "Web & Frontend",
-    "subcategory": "Other",
-    "slug": "web-frontend"
-  },
   "StudioZeroZero/Twice-Monitor": {
     "category": "Media & Entertainment",
     "subcategory": "Other",
@@ -4195,11 +4190,6 @@
     "slug": "other"
   },
   "jacob-bd/gemini-notebook-mcp-cli": {
-    "category": "Other",
-    "subcategory": "Other",
-    "slug": "other"
-  },
-  "ruaan-deysel/unraid-management-agent": {
     "category": "Other",
     "subcategory": "Other",
     "slug": "other"
@@ -5498,5 +5488,20 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "Sanket9225/UsenetStreamer": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "tinkerologie/unraid-management-agent": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Monitoring & Alerts",
+    "slug": "self-hosting-homelab"
+  },
+  "uxfront-com/styleframe": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
   }
 }
