@@ -5503,5 +5503,10 @@
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
     "slug": "web-frontend"
+  },
+  "whitehatnetizen/keymap-imgen": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
   }
 }
