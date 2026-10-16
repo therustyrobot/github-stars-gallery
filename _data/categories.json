@@ -1269,11 +1269,6 @@
     "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
   },
-  "Z4nzu/hackingtool": {
-    "category": "Security",
-    "subcategory": "Security",
-    "slug": "security"
-  },
   "1jehuang/jcode": {
     "category": "AI & ML",
     "subcategory": "Coding Agents & IDEs",
@@ -5517,11 +5512,6 @@
   "kepano/obsidian-skills": {
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
-  "kagan-sh/kagan": {
-    "category": "AI & ML",
-    "subcategory": "Coding Agents & IDEs",
     "slug": "ai-ml"
   }
 }
