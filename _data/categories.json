@@ -89,11 +89,6 @@
     "subcategory": "Other",
     "slug": "ai-ml"
   },
-  "baairon/torlink": {
-    "category": "Dev Tools & CLI",
-    "subcategory": "Automation & Scraping",
-    "slug": "dev-tools-cli"
-  },
   "qdm12/gluetun-wiki": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Notes & Knowledge",
@@ -5513,5 +5508,35 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "storytold/lightcraft": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "yapfast/yapfast": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "Zulko/moviepy": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "WyattBlue/auto-editor": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "browser-use/video-use": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "Nisanth-Nimashakavi/agenticsocialmedia": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
   }
 }
