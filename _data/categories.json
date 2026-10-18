@@ -5538,5 +5538,10 @@
     "category": "Other",
     "subcategory": "Other",
     "slug": "other"
+  },
+  "samuelgursky/davinci-resolve-mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
   }
 }
