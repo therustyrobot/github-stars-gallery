@@ -5543,5 +5543,10 @@
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
+  },
+  "Z4nzu/hackingtool": {
+    "category": "Security",
+    "subcategory": "Security",
+    "slug": "security"
   }
 }
