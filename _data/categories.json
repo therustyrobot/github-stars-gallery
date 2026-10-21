@@ -4264,11 +4264,6 @@
     "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
   },
-  "bmpi-dev/awesome-seo": {
-    "category": "Awesome Lists",
-    "subcategory": "Awesome Lists",
-    "slug": "awesome-lists"
-  },
   "TheCraigHewitt/seomachine": {
     "category": "AI & ML",
     "subcategory": "Claude Code & Skills",
@@ -5548,5 +5543,145 @@
     "category": "Security",
     "subcategory": "Security",
     "slug": "security"
+  },
+  "MoldyTaint/Cinephage": {
+    "category": "AI & ML",
+    "subcategory": "RAG & Knowledge",
+    "slug": "ai-ml"
+  },
+  "Vanilagy/mediabunny": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "kaishi00/hermes-conduit": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "tangency-labs/solidcraft": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "deveshrai/Solidcraft-Android-Port": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
+  },
+  "jspadgett/space-elevator": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "Hoverth/fdroidcl": {
+    "category": "DevTools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "devtools-cli"
+  },
+  "kiriwalawren/nixflix": {
+    "category": "DevOps & Infra",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "devops-infra"
+  },
+  "nix-media-server/nixarr": {
+    "category": "DevOps & Infra",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "devops-infra"
+  },
+  "dekomote/vermouth": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "kanywst/wtfi2": {
+    "category": "Networking",
+    "subcategory": "Networking",
+    "slug": "networking"
+  },
+  "dahjah/muse-vm-hacks": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "cage-kiosk/cage": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "ultralytics/yolo11": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "nocodb/nocodb": {
+    "category": "Data & Analytics",
+    "subcategory": "Data & Analytics",
+    "slug": "data-analytics"
+  },
+  "docmost/docmost": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "relaticle/relaticle": {
+    "category": "Data & Analytics",
+    "subcategory": "Data & Analytics",
+    "slug": "data-analytics"
+  },
+  "02keilj/3d2cnc": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "thalisantunes/mcp-openscad": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "breandan81/kerf": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "mylasertools-com/mylasertools-mcp": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "OverDrive1g/openclaw-cad": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "RIT-cutRITe/cutRITe": {
+    "category": "Web & Frontend",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "web-frontend"
+  },
+  "wholder/LaserCut": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "florianfesti/boxes": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "ransome1/sleek": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "i365dev/awesome-seo": {
+    "category": "AI & ML",
+    "subcategory": "RAG & Knowledge",
+    "slug": "ai-ml"
+  },
+  "baairon/torlink": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
   }
 }
