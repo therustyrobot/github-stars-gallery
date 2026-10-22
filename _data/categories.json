@@ -74,11 +74,6 @@
     "subcategory": "DevOps & Infra",
     "slug": "devops-infra"
   },
-  "dynatrace-oss/dtctl": {
-    "category": "Dev Tools & CLI",
-    "subcategory": "Other Dev Tools",
-    "slug": "dev-tools-cli"
-  },
   "ivo-toby/contentful-mcp": {
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
@@ -3444,11 +3439,6 @@
     "subcategory": "Terminal & Shell",
     "slug": "dev-tools-cli"
   },
-  "diegosouzapw/OmniRoute": {
-    "category": "AI & ML",
-    "subcategory": "AI Infrastructure & APIs",
-    "slug": "ai-ml"
-  },
   "streeriver/mini-rack-pdu": {
     "category": "ESP32 & Hardware",
     "subcategory": "ESP32 & Hardware",
@@ -3533,11 +3523,6 @@
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
     "slug": "web-frontend"
-  },
-  "MadsLorentzen/ai-job-search": {
-    "category": "AI & ML",
-    "subcategory": "Claude Code & Skills",
-    "slug": "ai-ml"
   },
   "MaximeRivest/riddle": {
     "category": "Productivity & Notes",
@@ -5680,6 +5665,21 @@
     "slug": "ai-ml"
   },
   "baairon/torlink": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Terminal & Shell",
+    "slug": "dev-tools-cli"
+  },
+  "ai-job-search-dev/ai-job-search": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "cheaper-inference/OmniRoute": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "Dynatrace/dtctl": {
     "category": "Dev Tools & CLI",
     "subcategory": "Terminal & Shell",
     "slug": "dev-tools-cli"
