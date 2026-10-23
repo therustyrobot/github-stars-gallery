@@ -5683,5 +5683,10 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Terminal & Shell",
     "slug": "dev-tools-cli"
+  },
+  "snesrev/smw": {
+    "category": "Other",
+    "subcategory": "Other",
+    "slug": "other"
   }
 }
