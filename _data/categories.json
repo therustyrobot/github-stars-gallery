@@ -5164,11 +5164,6 @@
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
   },
-  "magnus919/hermes-profiles": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "dream-num/univer": {
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
@@ -5529,11 +5524,6 @@
     "subcategory": "Security",
     "slug": "security"
   },
-  "MoldyTaint/Cinephage": {
-    "category": "AI & ML",
-    "subcategory": "RAG & Knowledge",
-    "slug": "ai-ml"
-  },
   "Vanilagy/mediabunny": {
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
@@ -5688,5 +5678,20 @@
     "category": "Other",
     "subcategory": "Other",
     "slug": "other"
+  },
+  "ethanplusai/harvey": {
+    "category": "AI & ML",
+    "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
+  },
+  "wesbos/3d-model-anything": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "Cinephage/Cinephage": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
   }
 }
