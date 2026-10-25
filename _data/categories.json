@@ -5379,11 +5379,6 @@
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
   },
-  "grdashark/BLEShark": {
-    "category": "Security",
-    "subcategory": "Security",
-    "slug": "security"
-  },
   "getpaseo/paseo-relay": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Networking & Remote Access",
