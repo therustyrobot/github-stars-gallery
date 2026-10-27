@@ -474,11 +474,6 @@
     "subcategory": "Tools & Utilities",
     "slug": "self-hosting-homelab"
   },
-  "pocketbase/pocketbase": {
-    "category": "DevOps & Infra",
-    "subcategory": "DevOps & Infra",
-    "slug": "devops-infra"
-  },
   "PostHog/posthog": {
     "category": "Data & Analytics",
     "subcategory": "Data & Analytics",
@@ -5723,5 +5718,10 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "marvinvr/docktail": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Deployment & PaaS",
+    "slug": "self-hosting-homelab"
   }
 }
