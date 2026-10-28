@@ -5039,11 +5039,6 @@
     "subcategory": "Monitoring & Alerts",
     "slug": "self-hosting-homelab"
   },
-  "sinameraji/autopilot": {
-    "category": "AI & ML",
-    "subcategory": "Coding Agents & IDEs",
-    "slug": "ai-ml"
-  },
   "Comfy-Org/ComfyUI": {
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
@@ -5723,5 +5718,10 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Deployment & PaaS",
     "slug": "self-hosting-homelab"
+  },
+  "directionally-local/autopilot": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
   }
 }
