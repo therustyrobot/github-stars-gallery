@@ -1,9 +1,4 @@
 {
-  "facebook/astryx": {
-    "category": "AI & ML",
-    "subcategory": "Generalist Agents",
-    "slug": "ai-ml"
-  },
   "usestrix/strix": {
     "category": "Security",
     "subcategory": "Other",
@@ -2304,11 +2299,6 @@
     "subcategory": "Generalist Agents",
     "slug": "ai-ml"
   },
-  "facebook/docusaurus": {
-    "category": "Dev Tools & CLI",
-    "subcategory": "Documentation & Sites",
-    "slug": "dev-tools-cli"
-  },
   "traefik/traefik": {
     "category": "DevOps & Infra",
     "subcategory": "DevOps & Infra",
@@ -4074,11 +4064,6 @@
     "subcategory": "Notes & Knowledge",
     "slug": "self-hosting-homelab"
   },
-  "is-cout/maguilanote-obsidian": {
-    "category": "Productivity & Notes",
-    "subcategory": "Productivity & Notes",
-    "slug": "productivity-notes"
-  },
   "pranay101/Mannote": {
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
@@ -5604,11 +5589,6 @@
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
   },
-  "mylasertools-com/mylasertools-mcp": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Media & Arr Stack",
-    "slug": "self-hosting-homelab"
-  },
   "OverDrive1g/openclaw-cad": {
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
@@ -5723,5 +5703,105 @@
     "category": "AI & ML",
     "subcategory": "Coding Agents & IDEs",
     "slug": "ai-ml"
+  },
+  "henfrydls/actual-budget-mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "jlvcm/ha-actualbudget": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "sakowicz/actual-ai": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "jhonderson/actual-http-api": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "ellite/Wallos": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "livekit/livekit": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "coder/registry": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "kdcokenny/ocx": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "cloudflare/workers-sdk": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "rivet-dev/rivet": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "kdcokenny/OpenDictation": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "kdcokenny/lsbible": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "kdcokenny/topcoat-cloudflare": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "kdcokenny/google-maps-link-parser": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "generalaction/emdash": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "kdcokenny/kagi-rs": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "mylasertools/mylasertools-mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "lucscout/maguilanote-obsidian": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "meta/astryx": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "meta/docusaurus": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Documentation & Sites",
+    "slug": "dev-tools-cli"
   }
 }
