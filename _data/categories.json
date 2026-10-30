@@ -5803,5 +5803,65 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Documentation & Sites",
     "slug": "dev-tools-cli"
+  },
+  "Donchitos/Claude-Code-Game-Studios": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "togg53192-cmd/jailbreaks": {
+    "category": "Security",
+    "subcategory": "Security",
+    "slug": "security"
+  },
+  "elayadesign/ai-design-skills": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "nightly-labs/openbot": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "milind-soni/OpenMausBot": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "JetBrains/thinkrail": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "raulvazquez7/personal-finance-agent": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "masteringmachines/LedgerSort": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "DineshKuppan/jev-banking-routing-go": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "darrentmorgan/jev-accounting": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "kjagsadvisors/jev-bookkeeper": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "Mohamed-rilwan/Jev-BankTransaction": {
+    "category": "Data & Analytics",
+    "subcategory": "Data & Analytics",
+    "slug": "data-analytics"
   }
 }
