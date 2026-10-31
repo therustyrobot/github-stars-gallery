@@ -5789,11 +5789,6 @@
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
   },
-  "lucscout/maguilanote-obsidian": {
-    "category": "Productivity & Notes",
-    "subcategory": "Productivity & Notes",
-    "slug": "productivity-notes"
-  },
   "meta/astryx": {
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
@@ -5863,5 +5858,30 @@
     "category": "Data & Analytics",
     "subcategory": "Data & Analytics",
     "slug": "data-analytics"
+  },
+  "mxgmn/MarkovJunior": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "wheresryan22/anatomy": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "ColinGPT9/clips-studio": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "advplyr/audiobookshelf-app": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "acronita/maguilanote-obsidian": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
   }
 }
