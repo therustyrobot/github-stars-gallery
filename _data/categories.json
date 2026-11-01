@@ -5879,9 +5879,19 @@
     "subcategory": "Mobile & Desktop",
     "slug": "mobile-desktop"
   },
-  "acronita/maguilanote-obsidian": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Notes & Knowledge",
-    "slug": "self-hosting-homelab"
+  "LiamDroog/mctl": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "korjik/firewalla-mcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "acronita/nodeboard-obsidian": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
