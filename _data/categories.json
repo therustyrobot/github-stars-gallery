@@ -4639,11 +4639,6 @@
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
   },
-  "knoxgraeme/tieline": {
-    "category": "Dev Tools & CLI",
-    "subcategory": "Documentation & Sites",
-    "slug": "dev-tools-cli"
-  },
   "jordanbaird/Ice": {
     "category": "Mobile & Desktop",
     "subcategory": "Mobile & Desktop",
@@ -5893,5 +5888,15 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "jo-duchan/tapflow": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "knoxgraeme/tiepoint": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Documentation & Sites",
+    "slug": "dev-tools-cli"
   }
 }
