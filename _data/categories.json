@@ -5898,5 +5898,25 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Documentation & Sites",
     "slug": "dev-tools-cli"
+  },
+  "amywork777/lipflow": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "joeblau/subvox": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "eneskirca/nodeterm": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "deepseek-ai/dsh-superagent-prototype": {
+    "category": "AI & ML",
+    "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
   }
 }
