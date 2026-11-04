@@ -5319,11 +5319,6 @@
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
   },
-  "penso/herdr-gpui": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Dashboards & Homepages",
-    "slug": "self-hosting-homelab"
-  },
   "OrchestratorInc/agent-orchestrator": {
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
@@ -5918,5 +5913,20 @@
     "category": "AI & ML",
     "subcategory": "Generalist Agents",
     "slug": "ai-ml"
+  },
+  "gitbutlerapp/gitbutler": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "goodnight000/api-anything": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Automation & Scraping",
+    "slug": "dev-tools-cli"
+  },
+  "sheprd-labs/sheprd": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
   }
 }
