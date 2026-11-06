@@ -4189,11 +4189,6 @@
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
   },
-  "cactus-compute/needle": {
-    "category": "AI & ML",
-    "subcategory": "AI Infrastructure & APIs",
-    "slug": "ai-ml"
-  },
   "bretzel-app/crumbs": {
     "category": "Other",
     "subcategory": "Other",
@@ -4774,11 +4769,6 @@
     "subcategory": "Web & Frontend",
     "slug": "web-frontend"
   },
-  "pacifio/atlas": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "debpalash/VoiceStudio": {
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
@@ -4978,11 +4968,6 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
-  },
-  "ever-works/ever-works": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
   },
   "agregarr/agregarr": {
     "category": "Media & Arr Stack",
@@ -5958,5 +5943,25 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
+  },
+  "abue-ammar/tinycast": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "ever-co/ever-works": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "tryatlas/atlas": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "cactus-compute/cactus": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
   }
 }
