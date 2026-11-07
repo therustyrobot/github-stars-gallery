@@ -434,11 +434,6 @@
     "subcategory": "DevOps & Infra",
     "slug": "devops-infra"
   },
-  "hyperdxio/hyperdx": {
-    "category": "DevOps & Infra",
-    "subcategory": "DevOps & Infra",
-    "slug": "devops-infra"
-  },
   "openreplay/openreplay": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Monitoring & Alerts",
@@ -563,11 +558,6 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
-  },
-  "timothepoznanski/poznote": {
-    "category": "Productivity & Notes",
-    "subcategory": "Notes & Knowledge",
-    "slug": "productivity-notes"
   },
   "osresearch/papercraft": {
     "category": "Other",
@@ -5619,11 +5609,6 @@
     "subcategory": "Other",
     "slug": "other"
   },
-  "ethanplusai/harvey": {
-    "category": "AI & ML",
-    "subcategory": "Generalist Agents",
-    "slug": "ai-ml"
-  },
   "wesbos/3d-model-anything": {
     "category": "Mobile & Desktop",
     "subcategory": "Mobile & Desktop",
@@ -5963,5 +5948,70 @@
     "category": "AI & ML",
     "subcategory": "AI Infrastructure & APIs",
     "slug": "ai-ml"
+  },
+  "Twigpine/openclaude": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "webmachinelearning/webmcp": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "ebertti/awesome-telegram": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "zsviczian/excalibrain": {
+    "category": "Productivity & Notes",
+    "subcategory": "Notes & Knowledge",
+    "slug": "productivity-notes"
+  },
+  "zudochkin/hammerspoon-activity-logger": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "Developer-Mike/obsidian-advanced-canvas": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "zudochkin/obsidian-kanline": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "zudochkin/go-clean-ddd-skill": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "zudochkin/awesome-newsletters": {
+    "category": "Awesome Lists",
+    "subcategory": "Awesome Lists",
+    "slug": "awesome-lists"
+  },
+  "zudochkin/taskwarrior-alfredworkflow": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "ethanplusai/sellbird": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "ClickHouse/ClickStack": {
+    "category": "DevOps & Infra",
+    "subcategory": "DevOps & Infra",
+    "slug": "devops-infra"
+  },
+  "timothepoznanski/Poznote": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
   }
 }
