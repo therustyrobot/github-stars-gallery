@@ -2394,11 +2394,6 @@
     "subcategory": "Tools & Utilities",
     "slug": "self-hosting-homelab"
   },
-  "Werewolfke/firewalla-list-automator": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Tools & Utilities",
-    "slug": "self-hosting-homelab"
-  },
   "djuntgen/firewalla-home-assistant": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Tools & Utilities",
@@ -5264,11 +5259,6 @@
     "subcategory": "RAG & Knowledge",
     "slug": "ai-ml"
   },
-  "calesthio/OpenMontage": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "getsentry/sentry": {
     "category": "DevOps & Infra",
     "subcategory": "DevOps & Infra",
@@ -6013,5 +6003,15 @@
     "category": "Productivity & Notes",
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
+  },
+  "negurvulkan/kizamubeam": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "OpenMontageInc/OpenMontage": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
   }
 }
