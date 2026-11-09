@@ -1004,11 +1004,6 @@
     "subcategory": "Generalist Agents",
     "slug": "ai-ml"
   },
-  "bytedance/UI-TARS-desktop": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "CloakHQ/CloakBrowser": {
     "category": "Security",
     "subcategory": "Other",
@@ -6013,5 +6008,15 @@
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
     "slug": "ai-ml"
+  },
+  "Shpigford/nurb": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "anefzaoui/misterdownloadmanager": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
   }
 }
