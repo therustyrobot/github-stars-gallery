@@ -6018,5 +6018,15 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
+  },
+  "victor-falcon/plain-week": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "microsoft/markitdown": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
   }
 }
