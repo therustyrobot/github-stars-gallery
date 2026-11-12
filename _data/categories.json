@@ -899,11 +899,6 @@
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
   },
-  "esengine/DeepSeek-Reasonix": {
-    "category": "AI & ML",
-    "subcategory": "Coding Agents & IDEs",
-    "slug": "ai-ml"
-  },
   "bottobot/touchdesigner-mcp-server": {
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
@@ -5394,11 +5389,6 @@
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
   },
-  "kepano/obsidian-skills": {
-    "category": "AI & ML",
-    "subcategory": "Agent Frameworks & Harnesses",
-    "slug": "ai-ml"
-  },
   "storytold/lightcraft": {
     "category": "Media & Entertainment",
     "subcategory": "Media & Entertainment",
@@ -6033,5 +6023,25 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Automation & Scraping",
     "slug": "dev-tools-cli"
+  },
+  "storytold/craft-anything": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "muratozturkdev/homescape": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "obsidianmd/obsidian-skills": {
+    "category": "Productivity & Notes",
+    "subcategory": "Productivity & Notes",
+    "slug": "productivity-notes"
+  },
+  "tonhowtf/omniget": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
   }
 }
