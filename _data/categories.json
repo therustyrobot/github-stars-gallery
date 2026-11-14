@@ -6043,5 +6043,165 @@
     "category": "AI & ML",
     "subcategory": "AI Productivity Tools",
     "slug": "ai-ml"
+  },
+  "jxlarrea/kiosk-satellite": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
+    "slug": "self-hosting-homelab"
+  },
+  "jxlarrea/lineageos-echo-kiosk-satellite": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "abdenourgnx/re-kindle": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "brushknight/agents-deck": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "ardia-browser/ardia": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "JaceThings/DiaTweaks": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "browseros-ai/BrowserOS": {
+    "category": "AI & ML",
+    "subcategory": "LLM UIs & Chat Interfaces",
+    "slug": "ai-ml"
+  },
+  "renatoaug/claude-usage-monitor": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "mjmlio/mjml": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "makecindy/cindy": {
+    "category": "AI & ML",
+    "subcategory": "Generalist Agents",
+    "slug": "ai-ml"
+  },
+  "FrigadeHQ/yogurt": {
+    "category": "AI & ML",
+    "subcategory": "AI Productivity Tools",
+    "slug": "ai-ml"
+  },
+  "RitwickVerma/TizenAmbilight": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "myanesp/telegram-immich-bot": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "immich-power-tools/immich-power-tools": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "Salvoxia/immich-folder-album-creator": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "timasoft/immich-analyze": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "warreth/gPhotos2Immich": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "FreeTubeApp/FreeTube": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "biolend83/tubehaus": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "sergigp/yarrtube": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "MBombeck/HealthLog": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "TheBadFella/Pinchflat-NGX": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "Silo-Server/silo-server": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "HoshinoSuzumi/chronoframe": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "PatchMon/PatchMon": {
+    "category": "DevOps & Infra",
+    "subcategory": "DevOps & Infra",
+    "slug": "devops-infra"
+  },
+  "keptinventory/kept": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "guconstantino/handheld-hub": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "cristianadrielbraun/gofer": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Password & Auth",
+    "slug": "self-hosting-homelab"
+  },
+  "Lasikiewicz/plekt": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "BlizzHacker/romarr": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "armanckeser/stard": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "AndrewCTF/velocity": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Monitoring & Alerts",
+    "slug": "self-hosting-homelab"
   }
 }
