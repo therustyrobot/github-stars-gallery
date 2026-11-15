@@ -3929,11 +3929,6 @@
     "subcategory": "Monitoring & Alerts",
     "slug": "self-hosting-homelab"
   },
-  "bastienwirtz/homer": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Dashboards & Homepages",
-    "slug": "self-hosting-homelab"
-  },
   "davis7dotsh/my-pi-setup": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Tools & Utilities",
@@ -5984,11 +5979,6 @@
     "subcategory": "Productivity & Notes",
     "slug": "productivity-notes"
   },
-  "negurvulkan/kizamubeam": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Tools & Utilities",
-    "slug": "self-hosting-homelab"
-  },
   "OpenMontageInc/OpenMontage": {
     "category": "AI & ML",
     "subcategory": "Agent Frameworks & Harnesses",
@@ -6202,6 +6192,26 @@
   "AndrewCTF/velocity": {
     "category": "Self-Hosting & Homelab",
     "subcategory": "Monitoring & Alerts",
+    "slug": "self-hosting-homelab"
+  },
+  "vinibiavatti1/TuiCss": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
+  },
+  "Hammerspoon/hammerspoon": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "KizamuBeam/kizamubeam": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "homer-dashboard/homer": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Dashboards & Homepages",
     "slug": "self-hosting-homelab"
   }
 }
