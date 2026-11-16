@@ -6213,5 +6213,20 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Dashboards & Homepages",
     "slug": "self-hosting-homelab"
+  },
+  "kortregt/lenovo-smart-clock-linux": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
+  },
+  "drupaltools/skills": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "madsnorgaard/drupal-agent-resources": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
   }
 }
