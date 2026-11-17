@@ -4484,11 +4484,6 @@
     "subcategory": "Media & Arr Stack",
     "slug": "self-hosting-homelab"
   },
-  "asciimoo/hister": {
-    "category": "Self-Hosting & Homelab",
-    "subcategory": "Tools & Utilities",
-    "slug": "self-hosting-homelab"
-  },
   "senlindesign/claude2figma": {
     "category": "AI & ML",
     "subcategory": "Claude Code & Skills",
@@ -6228,5 +6223,25 @@
     "category": "AI & ML",
     "subcategory": "Claude Code & Skills",
     "slug": "ai-ml"
+  },
+  "abdiraimov-otabek/dashboard-design-skill": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "arcadia-unity/Arcadia": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "mxhm11cr/LinuxRunner": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "asciimoo/nogon": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
   }
 }
