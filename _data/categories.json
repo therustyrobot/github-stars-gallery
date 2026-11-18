@@ -6243,5 +6243,20 @@
     "category": "Self-Hosting & Homelab",
     "subcategory": "Tools & Utilities",
     "slug": "self-hosting-homelab"
+  },
+  "daijro/honeydew": {
+    "category": "Media & Entertainment",
+    "subcategory": "Media & Entertainment",
+    "slug": "media-entertainment"
+  },
+  "ericerkz/kept": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Notes & Knowledge",
+    "slug": "self-hosting-homelab"
+  },
+  "djparentx/dArkOSen-R36S": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
   }
 }
