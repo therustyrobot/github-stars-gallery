@@ -899,11 +899,6 @@
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
   },
-  "bottobot/touchdesigner-mcp-server": {
-    "category": "AI & ML",
-    "subcategory": "MCP Servers & Tools",
-    "slug": "ai-ml"
-  },
   "8beeeaaat/touchdesigner-mcp": {
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
@@ -6258,5 +6253,15 @@
     "category": "Mobile & Desktop",
     "subcategory": "Mobile & Desktop",
     "slug": "mobile-desktop"
+  },
+  "sdylewski/Analog-Redial": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Tools & Utilities",
+    "slug": "self-hosting-homelab"
+  },
+  "r-spring/touchdesigner-mcp-server": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
   }
 }
