@@ -6263,5 +6263,15 @@
     "category": "AI & ML",
     "subcategory": "MCP Servers & Tools",
     "slug": "ai-ml"
+  },
+  "lklynet/aurral": {
+    "category": "Self-Hosting & Homelab",
+    "subcategory": "Media & Arr Stack",
+    "slug": "self-hosting-homelab"
+  },
+  "gmi-software/react-native-better-pdf": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
   }
 }
