@@ -3104,11 +3104,6 @@
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
   },
-  "Or4cu1o/CLIDOWNROM": {
-    "category": "Dev Tools & CLI",
-    "subcategory": "Other Dev Tools",
-    "slug": "dev-tools-cli"
-  },
   "o7-machinehum/Blackpants": {
     "category": "Other",
     "subcategory": "Other",
@@ -6273,5 +6268,30 @@
     "category": "Dev Tools & CLI",
     "subcategory": "Other Dev Tools",
     "slug": "dev-tools-cli"
+  },
+  "OpenHands/OpenHands": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "jamesrochabrun/Easel": {
+    "category": "AI & ML",
+    "subcategory": "Coding Agents & IDEs",
+    "slug": "ai-ml"
+  },
+  "devvmhq/devvm": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "Other Dev Tools",
+    "slug": "dev-tools-cli"
+  },
+  "anomalyco/rune": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
+  },
+  "expo/exact": {
+    "category": "Mobile & Desktop",
+    "subcategory": "Mobile & Desktop",
+    "slug": "mobile-desktop"
   }
 }
