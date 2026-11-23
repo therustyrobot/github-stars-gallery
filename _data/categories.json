@@ -6293,5 +6293,25 @@
     "category": "Mobile & Desktop",
     "subcategory": "Mobile & Desktop",
     "slug": "mobile-desktop"
+  },
+  "jingyaogong/minimind": {
+    "category": "AI & ML",
+    "subcategory": "AI Infrastructure & APIs",
+    "slug": "ai-ml"
+  },
+  "HKUDS/CLI-Anything": {
+    "category": "AI & ML",
+    "subcategory": "Agent Frameworks & Harnesses",
+    "slug": "ai-ml"
+  },
+  "elementalsouls/Claude-BugHunter": {
+    "category": "AI & ML",
+    "subcategory": "Claude Code & Skills",
+    "slug": "ai-ml"
+  },
+  "hjertis/modern-clock": {
+    "category": "Web & Frontend",
+    "subcategory": "Web & Frontend",
+    "slug": "web-frontend"
   }
 }
