@@ -6313,5 +6313,10 @@
     "category": "Web & Frontend",
     "subcategory": "Web & Frontend",
     "slug": "web-frontend"
+  },
+  "zacharyinserra/deskhub": {
+    "category": "Dev Tools & CLI",
+    "subcategory": "ESP32 & Embedded",
+    "slug": "dev-tools-cli"
   }
 }
