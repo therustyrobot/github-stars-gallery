@@ -874,11 +874,6 @@
     "subcategory": "Proxmox & Containers",
     "slug": "self-hosting-homelab"
   },
-  "RekklesNA/ProxmoxMCP-Plus": {
-    "category": "AI & ML",
-    "subcategory": "MCP Servers & Tools",
-    "slug": "ai-ml"
-  },
   "railwayapp/railway-skills": {
     "category": "AI & ML",
     "subcategory": "Coding Agents & IDEs",
@@ -6313,5 +6308,15 @@
     "category": "Dev Tools & CLI",
     "subcategory": "ESP32 & Embedded",
     "slug": "dev-tools-cli"
+  },
+  "im-xiangda-li/ProxmoxMCP-Plus": {
+    "category": "AI & ML",
+    "subcategory": "MCP Servers & Tools",
+    "slug": "ai-ml"
+  },
+  "grdashark/BLEShark": {
+    "category": "ESP32 & Hardware",
+    "subcategory": "ESP32 & Hardware",
+    "slug": "esp32-hardware"
   }
 }
